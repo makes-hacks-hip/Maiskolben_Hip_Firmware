@@ -1,3 +1,5 @@
+Der Code in diesem Repo ist eine für unsere Lötstation angepasste Variante von https://github.com/ArduinoHannover/Maiskolben.
+
 # Maiskolben
 
 Code für die Lötstation "Maiskolben"
